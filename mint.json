@@ -1,3 +1,5 @@
 {
-	"headerMessage" : "Test Mint message json"
+	"headerMessage" : "Test Mint message json",
+	"mintLimitStart" : 0,
+	"mintLimitEnd" : 1000
 }
