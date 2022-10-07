@@ -1,6 +1,6 @@
 {
-	"mintEnabled": false,
-	"headerMessage" : "Test Mint message json",
+	"mintEnabled": true,
+	"headerMessage" : "Mint is enabled for Coin Templates in range [0;1000)",
 	"mintLimitStart" : 0,
 	"mintLimitEnd" : 1000
 }
