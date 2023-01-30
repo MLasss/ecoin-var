@@ -1,6 +1,6 @@
 {
-	"mintEnabled": false,
-	"headerMessage" : "Mint is currently disabled. Please follow public announcements for more information.",
-	"mintLimitStart" : 0,
-	"mintLimitEnd" : 1
+	"mintEnabled": true,
+	"headerMessage" : "Coins Templates in the range of 4000-5000 are currently available for minting. Stay tuned for public announcements for further information.",
+	"mintLimitStart" : 4000,
+	"mintLimitEnd" : 5000
 }
